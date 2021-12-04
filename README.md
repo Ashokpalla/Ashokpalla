@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ashokpalla https://ashokpalla.000webhostapp.com/
+-### Hi there , I'm Ashok P[website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+[website]: https://ashokpalla.000webhostapp.com/
 - 👀 I’m interested in Trending Technologies
 - 🌱 I’m currently learning ML and AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashokpalla541@gmail.com
 
 <!---
